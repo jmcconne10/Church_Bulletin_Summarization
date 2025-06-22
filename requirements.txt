@@ -1,0 +1,4 @@
+requests
+openai
+PyMuPDF
+python-dotenv
