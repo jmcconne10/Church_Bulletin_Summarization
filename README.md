@@ -26,7 +26,7 @@ graph TD
     F --> G[Append PDF URL to summary]
     G --> H[Send summary via email]
     H --> I[Done ✅]
-
+```  <-- ✅ This closes the mermaid block!
 ## 🛠 Setup Instructions
 
 Follow these steps to configure and run the Church Bulletin Summarization script.
