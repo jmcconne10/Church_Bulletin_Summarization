@@ -59,7 +59,7 @@ Add the following variables:
     EMAIL_TO=recipient@gmail.com
     EMAIL_PASSWORD=your_16_char_gmail_app_password
     OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    PDF_BASE_URL=https://container.parishesonline.com/bulletins/05/4108/
+    PDF_BASE_URL=https://yourChurch.com/bulletins/
 
 #### Variable Descriptions:
 - `EMAIL_USER`: Your Gmail address used to send the summary  
